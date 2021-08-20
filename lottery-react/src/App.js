@@ -62,6 +62,20 @@ function App() {
         Currently there are {players.length} players entered with total of{' '}
         {web3.utils.fromWei(balance, 'ether')} ether
       </p>
+      {account ? (
+        <>
+          <p>Your account: {account}</p>
+        </>
+      ) : (
+        <>
+          <p>
+            Please login to your metamask account to continue, already done?{' '}
+            <span>
+              <button onClick={() => setReload(!reload)}>reload</button>
+            </span>
+          </p>
+        </>
+      )}
       <hr />
       <form onSubmit={onSubmit}>
         <h4>Try your luck!</h4>
