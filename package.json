@@ -4,7 +4,7 @@
   "description": "dapp built using solidity and ethereum",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Madhav Tripathi",
   "license": "ISC",
@@ -14,5 +14,9 @@
     "solc": "^0.8.7-fixed",
     "truffle-hdwallet-provider": "^1.0.17",
     "web3": "^1.5.2"
+  },
+  "devDependencies": {
+    "@types/mocha": "^9.0.0",
+    "ganache-core": "^2.13.2"
   }
 }
