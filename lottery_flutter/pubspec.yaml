@@ -10,6 +10,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
+  flutter_shimmer: ^2.1.1
   flutter_svg: ^0.22.0
   font_awesome_flutter: ^9.1.0
   get: 4.3.8
@@ -17,7 +18,7 @@ dependencies:
   google_fonts: ^2.1.0
   http: ^0.13.3
   multiavatar: ^0.1.5
-  flutter_shimmer: ^2.1.1
+  url_launcher: ^6.0.9
   web3dart: ^2.2.0
   web_socket_channel: ^2.1.0
 

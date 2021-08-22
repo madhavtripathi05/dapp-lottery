@@ -9,7 +9,6 @@ class SvgWrapper {
     try {
       return await svg.fromSvgString(rawSvg, rawSvg);
     } catch (e) {
-      print(e);
       return null;
     }
   }

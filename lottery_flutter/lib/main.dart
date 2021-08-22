@@ -17,6 +17,7 @@ void main() async {
       theme: lightTheme,
       darkTheme: darkTheme,
       debugShowCheckedModeBanner: false,
+      themeMode: ThemeMode.system,
     ),
   );
 }

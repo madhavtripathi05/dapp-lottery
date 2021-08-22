@@ -10,4 +10,8 @@ final lightTheme = ThemeData(
     fontFamily: GoogleFonts.poppins().fontFamily,
     primaryColor: primaryColor,
     splashColor: splashColor);
-final darkTheme = lightTheme.copyWith(brightness: Brightness.dark);
+final darkTheme = ThemeData(
+    fontFamily: GoogleFonts.poppins().fontFamily,
+    primaryColor: primaryColor,
+    brightness: Brightness.dark,
+    splashColor: splashColor);
