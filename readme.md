@@ -1,11 +1,11 @@
 ## Lottery Smart Contract built with Solidity, Flutter and React. 
 * MetaMask based [React Webapp](https://madhavtripathi05.github.io/dapp-lottery/)
-* Private key based [Flutter Webapp](https://lottery-m-dapp.web.app) and [APK]() for non MetaMask supported browsers and devices
+* Private key based [Flutter Webapp](https://lottery-m-dapp.web.app) and [APK](https://github.com/madhavtripathi05/dapp-lottery/releases/download/v0.0.1-alpha/app-arm64-v8a-release.apk) for non MetaMask supported browsers and devices
 ![](screenshots/ss-web.png )
 
-<img src="screenshots/ss-app2.png" width="240" >
-<img src="screenshots/ss-app1.png" width="240" >
-<img src="screenshots/ss-app3.png" width="240" >
+
+<img src="screenshots/ss-app2.png" width="280" > <img src="screenshots/ss-app1.png" width="280" > <img src="screenshots/ss-app3.png" width="280" >
+
 
 ### Deploy contract on the ethereum network:
 * `npm i` inside root folder and [lottery-react](./lottery-react/package.json) to install dependencies.
