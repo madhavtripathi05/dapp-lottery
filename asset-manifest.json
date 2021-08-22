@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dapp-lottery/static/css/main.3c616307.chunk.css",
+    "main.js": "/dapp-lottery/static/js/main.a800d4f8.chunk.js",
+    "main.js.map": "/dapp-lottery/static/js/main.a800d4f8.chunk.js.map",
+    "runtime-main.js": "/dapp-lottery/static/js/runtime-main.94c88f41.js",
+    "runtime-main.js.map": "/dapp-lottery/static/js/runtime-main.94c88f41.js.map",
+    "static/js/2.daf67e2a.chunk.js": "/dapp-lottery/static/js/2.daf67e2a.chunk.js",
+    "static/js/2.daf67e2a.chunk.js.map": "/dapp-lottery/static/js/2.daf67e2a.chunk.js.map",
+    "static/js/3.abff4931.chunk.js": "/dapp-lottery/static/js/3.abff4931.chunk.js",
+    "static/js/3.abff4931.chunk.js.map": "/dapp-lottery/static/js/3.abff4931.chunk.js.map",
+    "index.html": "/dapp-lottery/index.html",
+    "static/css/main.3c616307.chunk.css.map": "/dapp-lottery/static/css/main.3c616307.chunk.css.map",
+    "static/js/2.daf67e2a.chunk.js.LICENSE.txt": "/dapp-lottery/static/js/2.daf67e2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94c88f41.js",
+    "static/js/2.daf67e2a.chunk.js",
+    "static/css/main.3c616307.chunk.css",
+    "static/js/main.a800d4f8.chunk.js"
+  ]
+}
